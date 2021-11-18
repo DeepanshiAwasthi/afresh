@@ -7,6 +7,7 @@ path='/home/deepanshi/projects/mxe4/gex7'
 files = os.listdir(path)
 names=[]
 d={}
+# hello
 kc=0
 for f in files:
     ff='/home/deepanshi/projects/mxe4/gex7/'+f
